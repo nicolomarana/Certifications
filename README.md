@@ -2,7 +2,7 @@
 This repository contain information about all certifications that I have obtained with the aims to improve my knowledge in the field of Machine Learning and Data Science.
 
 
-# # Certificate: 25
+# Number of Certificate: 25
 
 
 # List
