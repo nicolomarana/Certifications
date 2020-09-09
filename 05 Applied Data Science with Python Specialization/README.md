@@ -1,23 +1,14 @@
 # Link
-https://www.coursera.org/professional-certificates/tensorflow-in-practice
+https://www.coursera.org/learn/python-machine-learning
 
 # Description
 
-TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.
+This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than descriptive statistics, and introduce the scikit learn toolkit through a tutorial. The issue of dimensionality of data will be discussed, and the task of clustering data, as well as evaluating those clusters, will be tackled. Supervised approaches for creating predictive models will be described, and learners will be able to apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). The course will end with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models. By the end of this course, students will be able to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis. 
 
-In this hands-on, four-course Professional Certificate program, you’ll learn the necessary tools to build scalable AI-powered applications with TensorFlow. After finishing this program, you’ll be able to apply your new TensorFlow skills to a wide range of problems and projects
-
+This course should be taken after Introduction to Data Science in Python and Applied Plotting, Charting & Data Representation in Python and before Applied Text Mining in Python and Applied Social Analysis in Python.
 
 # Skill Gained
-- Computer Vision
-- Convolutional Neural Network
+- Python Programming
+- Machine Learning (ML) Algorithms
 - Machine Learning
-- Natural Language Processing
-- Tensorflow
-- Inductive Transfer
-- Augmentation
-- Dropouts
-- Tokenization
-- RNNs
-- Forecasting
-- Time Series
+- Scikit-Learn
