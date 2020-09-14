@@ -1,5 +1,3 @@
-# In progress
-
 # Description
 
 This one-week course describes the process of analyzing data and how to manage that process. We describe the iterative nature of data analysis and the role of stating a sharp question, exploratory data analysis, inference, formal statistical modeling, interpretation, and communication. In addition, we will describe how to direct analytic activities within a team and to drive the data analysis process towards coherent and useful results. 
