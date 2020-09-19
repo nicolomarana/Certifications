@@ -7,7 +7,7 @@ This repository contain information about all certifications that I have obtaine
 
 # List
 
-- [1 Deep Learning Specialization (6 Certifications)](https://github.com/nicolomarana/Certifications/tree/master/01%20Deep%20Learning%20Specialization)
+- [1 Deep Learning Specialization (6 Certifications) ✅](https://github.com/nicolomarana/Certifications/tree/master/01%20Deep%20Learning%20Specialization)
 - [2 Reinforcement Learning Explained](https://github.com/nicolomarana/Certifications/tree/master/02%20Reinforcement%20Learning%20Explained)
 - [3 Python For Everybody Specialization (6 Certifications)](https://github.com/nicolomarana/Certifications/tree/master/03%20Python%20For%20Everybody%20Specialization)
 - [4 TensorFlow Developer Professional Specialization (5 Certifications)](https://github.com/nicolomarana/Certifications/tree/master/04%20TensorFlow%20Developer%20Professional%20Specialization)
